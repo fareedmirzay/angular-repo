@@ -18,4 +18,4 @@ phases:
   build:
     commands:
       - echo "Starting Angular tests with ChromeHeadless"
-      - ng test --no-watch --no-progress --browsers=ChromeHeadless
+      - ng test --no-watch --no-progress --browsers=ChromeHeadlessCI
